@@ -22,7 +22,7 @@ This project is a dynamic travel checklist application built with ReactJS. It al
 
 ## Demo 🚀
 [Live Demo](https://www.robsonmuniz.pt)
-![Travel List in Action](![Travel Site](https://github.com/user-attachments/assets/e75ebd76-8603-472c-a49c-6f8c508444d8)
+![Travel List in Action](https://github.com/user-attachments/assets/e75ebd76-8603-472c-a49c-6f8c508444d8)
 
 ---
 
