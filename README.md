@@ -65,6 +65,6 @@ Visit `http://localhost:3000` to see the application in action, or check out the
 
 <div align="center">
 
-**[Live Demo](https://travel-list.robsonmuniz.pt)** | **[Report Bug](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)** | **[Request Feature](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)**
+**[Live Demo](https://www.robsonmuniz.pt)** | **[Report Bug](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)** | **[Request Feature](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)**
 
 </div>
