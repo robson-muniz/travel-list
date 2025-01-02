@@ -36,9 +36,19 @@ A dynamic travel checklist application built with **ReactJS**. The app helps use
 ---
 
 
-## Get in Touch
+## Get in Touch 📩🤝
 
-I’m always open to new opportunities! If you're looking for a skilled front-end developer for your team or project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robson-muniz/) or check out my other projects on [GitHub](https://github.com/robson-muniz).
+I’m always open to new opportunities! If you're looking for a skilled front-end developer for your team or project, feel free to reach out through any of the following channels:
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/robson-muniz/)** – Connect for professional inquiries and collaborations.
+- 💻 **[GitHub](https://github.com/robson-muniz/)** – Explore my other projects and code repositories.
+- 📧 **Email** – Shoot me an email at [robson_muniz@outlook.com](mailto:robson_muniz@outlook.com).
+- 🦸 **Twitter** – Follow me on Twitter for updates and thoughts: [@WebDevMadeEasy](https://x.com/WebDevMadeEasy).
+- 🌐 **Personal Website** – Check out my portfolio and more about me: [www.robsonmuniz.pt](https://www.robsonmuniz.pt).
+- ▶️ **YouTube** – Subscribe to my channel: [@DevMadeEasy](https://www.youtube.com/@DevMadeEasy).
+- 📝 **DEV.to** – Check out my articles and posts: [DEV.to](https://dev.to/robsonmuniz16).
+
+---
 
 ## Installation Instructions 🔧
 To run this project locally, follow these steps:
