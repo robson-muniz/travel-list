@@ -1,6 +1,6 @@
 # ✈️ Travel List | Modern React Application
 
-> A sleek, intuitive travel checklist application that helps travelers stay organized. Built with React and modern web technologies. **[Try it Live](https://travel-list.robsonmuniz.pt)**
+> A sleek, intuitive travel checklist application that helps travelers stay organized. Built with React and modern web technologies. **[Try it Live](https://www.robsonmuniz.pt)**
 
 ![Travel List in Action](https://github.com/user-attachments/assets/e75ebd76-8603-472c-a49c-6f8c508444d8)
 
@@ -47,7 +47,7 @@ cd tic-tac-toe-reactJS && npm install
 npm start
 ```
 
-Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://travel-list.robsonmuniz.pt).
+Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://www.robsonmuniz.pt).
 
 ## 🤝 Let's Connect!
 
