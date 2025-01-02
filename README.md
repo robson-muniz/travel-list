@@ -1,76 +1,70 @@
-# Travel List 🧳
+# ✈️ Travel List | Modern React Application
 
-A dynamic travel checklist application built with **ReactJS**. The app helps users add, track, and manage their travel items efficiently. This project showcases my front-end development skills, including state management, user interface design, and responsiveness.
-
----
-
-## Features ✨
-- Add travel items with descriptions and quantities.
-- Mark items as packed or unpacked with a single click.
-- Remove items to keep the list clean and organized.
-- Intuitive and user-friendly interface for seamless interaction.
-
----
-
-## Technologies & Skills 🛠️
-- **ReactJS**: Built reusable components and implemented efficient state management using hooks.
-- **CSS Modules**: Applied modular CSS to ensure a maintainable and scalable design.
-- **JavaScript (ES6)**: Developed dynamic functionalities like item filtering, sorting, and state updates.
-- 📱 **Responsive Design**: Ensured seamless functionality and UI on both mobile and desktop devices.
-
----
-
-## Demo 🎥
-[Live Demo](https://www.robsonmuniz.pt)
-
+> A sleek, intuitive travel checklist application that helps travelers stay organized. Built with React and modern web technologies. **[Try it Live](https://travel-list.robsonmuniz.pt)**
 
 ![Travel List in Action](https://github.com/user-attachments/assets/e75ebd76-8603-472c-a49c-6f8c508444d8)
 
+## 🚀 Key Features
+
+- **Smart Item Management**: Add, track, and organize travel items effortlessly
+- **Real-time Status Updates**: Toggle item status with seamless UI updates
+- **Responsive Design**: Optimized for both mobile and desktop experiences
+- **Intuitive Interface**: Clean, modern UI with smooth interactions
+
+## 🛠️ Technical Stack
+
+```javascript
+const techStack = {
+  frontend: {
+    main: "React.js",
+    stateManagement: ["React Hooks", "Context API"],
+    styling: ["CSS Modules", "Modern CSS"],
+  },
+  development: {
+    language: "JavaScript (ES6+)",
+    tools: ["Git", "npm", "Webpack"],
+    practices: ["Component-Based Architecture", "Responsive Design"]
+  }
+}
+```
+
+## 💡 Engineering Highlights
+
+- **Advanced State Management**: Implemented sophisticated state handling using React's latest features
+- **Performance Optimization**: Utilized React's memo and useMemo for optimal rendering
+- **Clean Architecture**: Structured with reusable components and clear separation of concerns
+
+## 🔧 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
+
+# Install dependencies
+cd tic-tac-toe-reactJS && npm install
+
+# Launch development server
+npm start
+```
+
+Visit `http://localhost:3000` to see the application in action, or check out the [live version](https://travel-list.robsonmuniz.pt).
+
+## 🤝 Let's Connect!
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Robson Muniz](https://www.linkedin.com/in/robson-muniz/) |
+| 💻 GitHub | [robson-muniz](https://github.com/robson-muniz/) |
+| 🌐 Portfolio | [robsonmuniz.pt](https://www.robsonmuniz.pt) |
+| 📧 Email | [robson_muniz@outlook.com](mailto:robson_muniz@outlook.com) |
+| 📝 DEV.to | [robsonmuniz16](https://dev.to/robsonmuniz16) |
+| ▶️ YouTube | [@DevMadeEasy](https://www.youtube.com/@DevMadeEasy) |
+| 🐦 Twitter | [@WebDevMadeEasy](https://x.com/WebDevMadeEasy) |
+
 ---
 
-## Challenges & Solutions 💡
-- **State Management**: Utilized React's `useState` and `useEffect` hooks for efficient state handling and data flow.
-- 🔄 **Dynamic Updates**: Ensured smooth updates when adding, modifying, or deleting items in the list.
-- 🎨 **User Experience**: Designed a clean, visually appealing, and responsive interface for both mobile and desktop users.
+<div align="center">
 
----
+**[Live Demo](https://travel-list.robsonmuniz.pt)** | **[Report Bug](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)** | **[Request Feature](https://github.com/robson-muniz/tic-tac-toe-reactJS/issues)**
 
-
-## Get in Touch 📩🤝
-
-I’m always open to new opportunities! If you're looking for a skilled front-end developer for your team or project, feel free to reach out through any of the following channels:
-
-- 💼 **[LinkedIn](https://www.linkedin.com/in/robson-muniz/)** – Connect for professional inquiries and collaborations.
-- 💻 **[GitHub](https://github.com/robson-muniz/)** – Explore my other projects and code repositories.
-- 📧 **Email** – Shoot me an email at [robson_muniz@outlook.com](mailto:robson_muniz@outlook.com).
-- 🦸 **Twitter** – Follow me on Twitter for updates and thoughts: [@WebDevMadeEasy](https://x.com/WebDevMadeEasy).
-- 🌐 **Personal Website** – Check out my portfolio and more about me: [www.robsonmuniz.pt](https://www.robsonmuniz.pt).
-- ▶️ **YouTube** – Subscribe to my channel: [@DevMadeEasy](https://www.youtube.com/@DevMadeEasy).
-- 📝 **DEV.to** – Check out my articles and posts: [DEV.to](https://dev.to/robsonmuniz16).
-
----
-
-## Installation Instructions 🔧
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd tic-tac-toe-reactJS
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the game.
+</div>
