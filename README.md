@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Travel List 🗺️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a dynamic travel checklist application built with ReactJS. It allows users to add, track, and manage their travel items efficiently. This project highlights my front-end development expertise, showcasing skills in state management, user interface design, and responsiveness.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features ✨
+- Add travel items with descriptions and quantities.
+- Mark items as packed or unpacked with a single click.
+- Remove items to keep the list clean and organized.
+- Intuitive and user-friendly interface for seamless interaction.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies and Skills Demonstrated 🛠️
+- **ReactJS**: Built reusable components with efficient state management.
+- **CSS Modules**: Applied modular styling for a clean, maintainable codebase.
+- **JavaScript (ES6)**: Developed dynamic functionalities, such as item filtering and state updates.
+- **Responsive Design**: Ensured a smooth user experience on both desktop and mobile devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Demo 🚀
+[Live Demo](https://www.robsonmuniz.pt)
+![Travel List in Action](![Travel Site](https://github.com/user-attachments/assets/e75ebd76-8603-472c-a49c-6f8c508444d8)
+)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Challenges and Solutions 🧩
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **State Management**: Leveraged React hooks like `useState` to manage item states efficiently.
+- **Dynamic Updates**: Ensured real-time updates when adding, modifying, or deleting items.
+- **User Experience**: Designed a clean and responsive layout to enhance usability across devices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Get in Touch
 
-### `npm run eject`
+I’m always open to new opportunities! If you're looking for a skilled front-end developer for your team or project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/robson-muniz/) or check out my other projects on [GitHub](https://github.com/robson-muniz).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation Instructions
+To run this project locally, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/robson-muniz/tic-tac-toe-reactJS.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Navigate to the project folder:
+   ```bash
+   cd tic-tac-toe-reactJS
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the game.
